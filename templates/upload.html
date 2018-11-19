@@ -1,0 +1,15 @@
+<!doctype html>
+<title>HTML picture looking</title>
+<label for="avatar">upload the picture:</label>
+<br />
+<form action='/upload' method="POST" enctype="multipart/form-data">
+	<input type="file" name="picture" accept="image/png, image/jpeg">
+	<p></p>
+	<select name ="option">
+	  <option value="xml">bei xml</option>
+	  <option value="bild">bei Bild</option>
+	</select>
+      <input type="submit" value="Upload">
+</form>
+<br />
+<a href="/" onClick=”javascript :history.go(-1);”>back</a>

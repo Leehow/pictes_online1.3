@@ -1,0 +1,29 @@
+1. button 2 input_text 1 tab_list 1 text 11
+button 3 tab_list 1 tab 1 input_text 1 text 17 textblock 1
+
+2. button 2 input_text 1 link 1 text 2
+button 2 input_text 1 link 2 text 4
+
+3. button 3 input_text 3 input_psw 1 tab_list 1 text 10
+button 1 input_text 4 tab_list 1 input_psw 0 text 10
+
+4. button 1 input_text 1 checkbox 1 text 6
+button 1 text 6
+
+5. button 2 input_text 4 select 1 checkbox 1 text 33
+button 2 tab 1 input_text 0 select 0 checkbox 0 text 30
+
+6. button 2 text 13
+button 2 text 12
+
+7. input_text 2 button 1 text 5
+input_text 3 button 1 text 5
+
+8 button 9 input_text 1 select 17 tab 1 text 21
+button 1 input_text 2 text 33
+
+9 tab_list 2 input 1 text 14
+tab_list 2 text 13
+
+10 button 2 input_text 6 select 3 radio 2 datepicker 1 text 21
+button 2 checkbox 2 input_text 5 select 2 datepicker 1 textblock 1 text 30
